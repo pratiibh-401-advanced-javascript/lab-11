@@ -15,7 +15,6 @@
 * [jsdoc](http://xyz.com) (Server assignments)
 
 ### Modules#### 
-#### `index.js` starts app by running `node index.js`
 #### `app.js` where all the `app.use` lives in; required in `index.js`
 #### `memory.js` class `Model` with `CRUD` & `sanitize` method
 #### `mongo.js` class `Model` with `jsonSchema` and `CRUD` functions
