@@ -42,7 +42,7 @@
 ### Setup
 #### `.env` requirements
 * `PORT` - 3000
-* `MONGODB_URI` - MONGODB_URI=mongodb://localhost:27017/class09
+* `MONGODB_URI` - MONGODB_URI=mongodb://localhost:27017/testingLab
 
 #### Running the app
 * `nodemon`
